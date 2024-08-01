@@ -7,7 +7,7 @@ Script and data from: **Population cluster data to assess the urban-rural split 
 This repository contains:
 * An environment .yml file needed for generating a fully functioning python 3.7 environment necessary for the clustering algorithm.
 * The clustering code and related functions. These files also contain necessary steps in order to reproduce results.
-* An example case for Benin.
+* An example case for Mozambique.
 
 ## Installing and running the clustering notebook
 
